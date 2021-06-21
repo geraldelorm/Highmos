@@ -134,7 +134,8 @@ strong {
 }
 
 #check-in,
-#check-out {
+#check-out,
+#persons {
   min-width: 100%;
   /* -webkit-appearance: none;   removed ios default appearance */
 }
