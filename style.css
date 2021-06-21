@@ -135,7 +135,8 @@ strong {
 
 #check-in,
 #check-out {
-  width: 100%;
+  min-width: 100%;
+  -webkit-appearance: none;
 }
 
 .booking_input input,
