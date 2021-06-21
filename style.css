@@ -136,7 +136,7 @@ strong {
 #check-in,
 #check-out {
   min-width: 100%;
-  -webkit-appearance: none;
+  /* -webkit-appearance: none;   removed ios default appearance */
 }
 
 .booking_input input,
