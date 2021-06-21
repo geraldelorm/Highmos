@@ -133,6 +133,11 @@ strong {
   font-weight: 500;
 }
 
+#check-in,
+#check-out {
+  width: 100%;
+}
+
 .booking_input input,
 .booking_input select {
   display: block;
