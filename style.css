@@ -136,8 +136,14 @@ strong {
 #check-in,
 #check-out,
 #persons {
+  display: block;
   min-width: 100%;
+  border: none;
+  padding: var(--space-xs) 0;
   /* -webkit-appearance: none;   removed ios default appearance */
+
+  font-weight: 500;
+  cursor: pointer;
 }
 
 .booking_input input,
