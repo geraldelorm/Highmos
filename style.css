@@ -136,7 +136,8 @@ strong {
 .booking_input input,
 .booking_input select {
   display: block;
-  min-width: 100%;
+  width: 100%;
+  min-width: 90%;
   border: none;
   padding: var(--space-xs) 0;
 
